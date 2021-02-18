@@ -9,7 +9,7 @@ class SidebarMenu extends Component {
         super(props);
         this.state = {
             isVisible: false,
-            oops: true
+            oops: false
         };
     }
 
