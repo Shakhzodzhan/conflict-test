@@ -8,7 +8,8 @@ class SidebarMenu extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            isVisible: false
+            isVisible: false,
+            oops: true
         };
     }
 
